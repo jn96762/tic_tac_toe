@@ -43,8 +43,7 @@ h1 {
     font-size: 40px;
     color: #FFC300;
     position: absolute;
-    left: 370px;
-    top: 55px;
+    transform: translate(-40px, -300px)
 }
 
 .oWins {
@@ -52,8 +51,7 @@ h1 {
     font-size: 40px;
     color: #FFC300;
     position: absolute;
-    right: 330px;
-    top: 55px;
+    transform: translate(330px, -90px)
 }
 
 .hide {
